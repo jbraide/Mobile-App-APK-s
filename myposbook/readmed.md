@@ -13,6 +13,7 @@
 - Python/Django
 - API Development with Django Rest Framework (DRF)
 - PostgreSQL Database
+- JWT for authentication
 
 ### Mobile App
 - Dart/Flutter
