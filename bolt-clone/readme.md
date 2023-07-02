@@ -1,6 +1,6 @@
 # Project Type: Personal Learning
 ## Bolt Clone
-![App code](./Screenshot 2023-07-02 at 07.01.45.png)
+![App code](./Screenshot%202023-07-02%20at%2007.01.45.png)
 
 ## Features
 - Authentication With google.
