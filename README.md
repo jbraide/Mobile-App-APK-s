@@ -2,7 +2,7 @@
 # Welcome to This Page
 
 Here, you'll find the APK (Android) files of mobile apps I have developed using the Flutter framework.
-- [Bolt Clone](https://github.com/jbraide/Mobile-App-APK-s/blob/master/bolt-clone) [In Development]
+- [Bolt Clone](https://github.com/jbraide/Mobile-App-APK-s/blob/master/bolt-clone)
 - [My POS Book](https://github.com/jbraide/Mobile-App-APK-s/blob/master/myposbook)
 - [Bill Payment Application](https://microepay.com/download-app/)
 - 
